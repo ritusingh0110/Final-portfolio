@@ -27,7 +27,7 @@ const projects: Project[] = [
     description: "A modern portfolio website built with Next.js and Framer Motion, featuring smooth animations and responsive design.",
     image: "/portf.jpg",
     technologies: ["Next.js", "Framer Motion", "Tailwind CSS", "TypeScript"],
-    githubUrl: "https://github.com/ritusingh0110/portfolio",
+    githubUrl: "https://github.com/ritusingh0110/Final-portfolio",
     liveUrl: "https://finalportfolio-nine.vercel.app/"
   },
   {
