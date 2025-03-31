@@ -28,7 +28,7 @@ const projects: Project[] = [
     image: "/portf.jpg",
     technologies: ["Next.js", "Framer Motion", "Tailwind CSS", "TypeScript"],
     githubUrl: "https://github.com/ritusingh0110/Final-portfolio",
-    liveUrl: "https://finalportfolio-nine.vercel.app/"
+    liveUrl: "https://ritusinghportfolio.vercel.app/"
   },
   {
     title: "Period_Tracker",
