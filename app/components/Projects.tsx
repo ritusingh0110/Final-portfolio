@@ -20,6 +20,7 @@ const projects: Project[] = [
     image: "/ecommerce.jpg",
     technologies: ["Next.js", "Node.js", "MongoDB", "Stripe"],
     githubUrl: "https://github.com/ritusingh0110/ecommerce",
+    
    
   },
   {
@@ -36,6 +37,7 @@ const projects: Project[] = [
     image: "/periodTracker.jpg",
     technologies: ["Next.js", "React.js"],
     githubUrl: "https://github.com/ritusingh0110/Period_Tracker",
+    liveUrl: "https://period-tracker-liart.vercel.app/"
    
   },
   {
@@ -44,6 +46,7 @@ const projects: Project[] = [
     image: "/ToDoList.jpg",
     technologies: ["React", "Tailwind CSS", "Local Storage", "TypeScript"],
     githubUrl: "https://github.com/ritusingh0110/ToDoList",
+     liveUrl: "https://to-do-list-ten-alpha-57.vercel.app//"
     
   },
   {
@@ -52,6 +55,7 @@ const projects: Project[] = [
     image: "/Password.jpg",
     technologies: ["HTML","Tailwind CSS", "JavaScript"],
     githubUrl: "https://github.com/ritusingh0110/random_password_generator"
+    
   }
  
  
