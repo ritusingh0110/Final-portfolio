@@ -14,15 +14,7 @@ interface Project {
 }
 
 const projects: Project[] = [
-  {
-    title: "Echo-Med-Ai",
-    description: "EchoMed, an AI-powered tool that transforms smartphones into medical diagnostic devices. EchoMed leverages advanced AI to analyze heart and lung sounds in real time with clinical-grade accuracy. This means it can potentially assist in detecting conditions related to cardiopulmonary health by using just a smartphone, making medical diagnostics more accessible and convenient.",
-    image: "/ecommerce.jpg",
-    technologies: ["Next.js", "Node.js", "MongoDB", "Stripe"],
-    githubUrl: "https://github.com/ritusingh0110/ecommerce",
-    
-   
-  },
+ 
   {
     title: "Portfolio Website",
     description: "A modern portfolio website built with Next.js and Framer Motion, featuring smooth animations and responsive design.",
@@ -54,7 +46,8 @@ const projects: Project[] = [
     description: "A Random Password Generator is a tool that creates secure and unpredictable passwords based on specified criteria, such as length and character types. It helps improve security by generating passwords that are difficult to guess or crack.",
     image: "/Password.jpg",
     technologies: ["HTML","Tailwind CSS", "JavaScript"],
-    githubUrl: "https://github.com/ritusingh0110/random_password_generator"
+    githubUrl: "https://github.com/ritusingh0110/random_password_generator",
+    liveUrl:"https://fascinating-panda-91f646.netlify.app/password.html"
     
   }
  
